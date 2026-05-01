@@ -1,0 +1,6 @@
+parameters:
+    ignoreErrors:
+        -
+            identifier: trait.unused
+            path: src/Testing/ClickhouseTruncation.php
+            message: '#used zero times#'
